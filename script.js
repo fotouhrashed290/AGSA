@@ -1,1 +1,182 @@
-(function(_0xd74822,_0x10cf2f){const _0x326ba0=_0x2436,_0x587e73=_0xd74822();while(!![]){try{const _0x4d78d3=parseInt(_0x326ba0(0xd1))/0x1+parseInt(_0x326ba0(0xc7))/0x2*(parseInt(_0x326ba0(0xca))/0x3)+parseInt(_0x326ba0(0x9a))/0x4+parseInt(_0x326ba0(0xbf))/0x5*(-parseInt(_0x326ba0(0x8f))/0x6)+-parseInt(_0x326ba0(0xb6))/0x7*(-parseInt(_0x326ba0(0xa6))/0x8)+parseInt(_0x326ba0(0xa2))/0x9+-parseInt(_0x326ba0(0x93))/0xa*(parseInt(_0x326ba0(0xc9))/0xb);if(_0x4d78d3===_0x10cf2f)break;else _0x587e73['push'](_0x587e73['shift']());}catch(_0x4bd583){_0x587e73['push'](_0x587e73['shift']());}}}(_0x448a,0xa919f));let lastShownBar=null;function _0x2436(_0x43e7dd,_0x48f9b6){const _0x448a17=_0x448a();return _0x2436=function(_0x243638,_0x1a2a1a){_0x243638=_0x243638-0x82;let _0x3d96a5=_0x448a17[_0x243638];return _0x3d96a5;},_0x2436(_0x43e7dd,_0x48f9b6);}function updateLayerVisibility(_0x58ef01,_0x5ca662){const _0x2da12f=_0x2436,_0x456684=parseFloat(_0x58ef01)||0x0;if(_0x5ca662===0x1)showLayer('g1',_0x456684===0x3),showLayer(_0x2da12f(0xcb),_0x456684===0x0),showLayer(_0x2da12f(0xc3),_0x456684===0x1),showLayer('gr1',_0x456684===0x2);else{if(_0x5ca662===0x2)showLayer('g2',_0x456684===0x3),showLayer(_0x2da12f(0xa9),_0x456684===0x0),showLayer('rr2',_0x456684===0x1),showLayer(_0x2da12f(0x89),_0x456684===0x2);else{if(_0x5ca662===0x3)showLayer('g3',_0x456684===0x3),showLayer(_0x2da12f(0xa7),_0x456684===0x0),showLayer(_0x2da12f(0xcc),_0x456684===0x1),showLayer('gr3',_0x456684===0x2);else{if(_0x5ca662===0x4)showLayer('g4',_0x456684===0x3),showLayer(_0x2da12f(0xb8),_0x456684===0x0),showLayer(_0x2da12f(0xda),_0x456684===0x1),showLayer(_0x2da12f(0xb4),_0x456684===0x2);else{if(_0x5ca662===0x5||_0x5ca662===0x6){const _0x2d8028=parseFloat(document[_0x2da12f(0xaf)](_0x2da12f(0xd7))?.[_0x2da12f(0xb2)])||0x0,_0x1fa90=parseFloat(document[_0x2da12f(0xaf)](_0x2da12f(0xb1))?.[_0x2da12f(0xb2)])||0x0,_0x41a452=_0x2d8028+_0x1fa90;console[_0x2da12f(0x85)](_0x2da12f(0x83),_0x41a452),showLayer('g5',_0x41a452===0x3),showLayer('rr5',_0x41a452===0.5||_0x41a452===0x1),showLayer(_0x2da12f(0x82),_0x41a452===1.5||_0x41a452===0x2||_0x41a452===2.5),showLayer(_0x2da12f(0xa3),_0x41a452===0x0);}else{if(_0x5ca662===0x7)showLayer('g6',_0x456684===0x3),showLayer(_0x2da12f(0xae),_0x456684===0x0),showLayer(_0x2da12f(0x84),_0x456684===0x1),showLayer(_0x2da12f(0x98),_0x456684===0x2);else{if(_0x5ca662===0x8||_0x5ca662===0x9){const _0x25ee7e=parseFloat(document[_0x2da12f(0xaf)](_0x2da12f(0x9c))?.[_0x2da12f(0xb2)])||0x0,_0x389e8a=parseFloat(document[_0x2da12f(0xaf)]('select[name=\x22question9\x22]')?.[_0x2da12f(0xb2)])||0x0,_0x3a0dbd=_0x25ee7e+_0x389e8a;console['log'](_0x2da12f(0x87),_0x3a0dbd),showLayer('g7',_0x3a0dbd===0x3),showLayer(_0x2da12f(0xaa),_0x3a0dbd===0.5||_0x3a0dbd===0x1),showLayer('gr7',_0x3a0dbd===1.5||_0x3a0dbd===0x2||_0x3a0dbd===2.5),showLayer(_0x2da12f(0xab),_0x3a0dbd===0x0);}else{if(_0x5ca662===0xa)showLayer('g8',_0x456684===0x3),showLayer(_0x2da12f(0x96),_0x456684===0x0),showLayer(_0x2da12f(0x99),_0x456684===0x1),showLayer(_0x2da12f(0xd5),_0x456684===0x2);else{if(_0x5ca662===0xb)showLayer('g9',_0x456684===0x3),showLayer(_0x2da12f(0x9b),_0x456684===0x0),showLayer('rr9',_0x456684===0x1),showLayer(_0x2da12f(0x90),_0x456684===0x2);else{if(_0x5ca662===0xc)showLayer('g10',_0x456684===0x3),showLayer('yy10',_0x456684===0x0),showLayer(_0x2da12f(0x92),_0x456684===0x1),showLayer(_0x2da12f(0xbd),_0x456684===0x2);else{if(_0x5ca662===0xd)showLayer('g11',_0x456684===0x3),showLayer(_0x2da12f(0x94),_0x456684===0x0),showLayer(_0x2da12f(0xa4),_0x456684===0x1),showLayer('gr11',_0x456684===0x2);else _0x5ca662===0xe&&(showLayer('g12',_0x456684===0x3),showLayer('yy12',_0x456684===0x0),showLayer(_0x2da12f(0x9e),_0x456684===0x1),showLayer(_0x2da12f(0xcd),_0x456684===0x2));}}}}}}}}}}displayTotalPoints();}function showLayer(_0x27a42d,_0x2c14a7){const _0x3346ed=_0x2436,_0x5db17c=document[_0x3346ed(0xc1)]('.'+_0x27a42d);_0x5db17c['forEach'](_0x25f8f5=>{const _0x100057=_0x3346ed;_0x25f8f5[_0x100057(0x95)][_0x100057(0xc5)]=_0x2c14a7?'visible':_0x100057(0xb7);});}function displayTotalPoints(){const _0x19d295=_0x2436;let _0x52ba00=0x0,_0x452cc8=0x0;for(let _0x33782f=0x1;_0x33782f<=0xe;_0x33782f++){const _0x508f45=document['querySelector'](_0x19d295(0x8e)+_0x33782f+'\x22]'),_0x37ca32=parseFloat(_0x508f45?.[_0x19d295(0xb2)])||0x0;!isNaN(_0x37ca32)&&_0x37ca32!==-0x1&&(_0x52ba00+=_0x37ca32,_0x452cc8++);}const _0x429b68=_0x452cc8*0x3,_0x411480=_0x52ba00/0x24*0x64;document[_0x19d295(0xa1)]('pointsCircle')[_0x19d295(0xd4)]=_0x411480[_0x19d295(0xd8)](0x2),updateBarImage(_0x411480);}function updateBarImage(_0x4c293e){const _0x90838b=_0x2436,_0x1e02e1={0x1c:_0x90838b(0xcf),0x1e:_0x90838b(0xbb),0x20:_0x90838b(0x8c),0x22:_0x90838b(0xc8),0x24:_0x90838b(0xd3),0x26:_0x90838b(0x8a),0x28:_0x90838b(0x9f),0x2a:_0x90838b(0xc0),0x2c:_0x90838b(0x97),0x2e:_0x90838b(0xd9),0x30:_0x90838b(0xb3),0x32:_0x90838b(0x91),0x34:_0x90838b(0x8d),0x36:_0x90838b(0xac),0x38:_0x90838b(0xa5),0x3a:_0x90838b(0xb0),0x3c:_0x90838b(0xc4),0x3e:_0x90838b(0xbe),0x40:_0x90838b(0x9d),0x42:'.bar_66',0x44:_0x90838b(0x86),0x46:_0x90838b(0xd6),0x48:_0x90838b(0x88),0x4a:_0x90838b(0xce),0x4b:'.bar_75',0x4c:'.bar_76',0x4e:_0x90838b(0xd0),0x50:'.bar_80',0x52:'.bar_82',0x54:'.bar_84',0x56:_0x90838b(0xc6),0x58:_0x90838b(0xc2),0x5a:_0x90838b(0x8b),0x5c:_0x90838b(0xa0),0x5e:_0x90838b(0xb9),0x60:_0x90838b(0xba),0x62:_0x90838b(0xd2),0x64:_0x90838b(0xb5)};lastShownBar&&(document[_0x90838b(0xaf)](lastShownBar)['style']['visibility']=_0x90838b(0xb7));let _0x5a074c=Object[_0x90838b(0xbc)](_0x1e02e1)['reduce']((_0x34ff45,_0x3630d7)=>{const _0x9a676=_0x90838b;return Math[_0x9a676(0xa8)](_0x3630d7-_0x4c293e)<Math[_0x9a676(0xa8)](_0x34ff45-_0x4c293e)?_0x3630d7:_0x34ff45;}),_0x31f6ad=_0x1e02e1[_0x5a074c];_0x31f6ad&&(document['querySelector'](_0x31f6ad)[_0x90838b(0x95)][_0x90838b(0xc5)]=_0x90838b(0xad),lastShownBar=_0x31f6ad);}function _0x448a(){const _0x497268=['Total\x20Points\x20for\x20Questions\x205\x20and\x206:','rr6','log','.bar_68','Total\x20Points\x20for\x20Questions\x208\x20and\x209:','.bar_72','gr2','.bar_38','.bar_90','.bar_32','.bar_52','select[name=\x22question','30CziVLb','gr9','.bar_50','rr10','100XMrfrU','yy11','style','yy8','.bar_44','gr6','rr8','4680112hwQttv','yy9','select[name=\x22question8\x22]','.bar_64','rr12','.bar_40','.bar_92','getElementById','3435408VUCDOT','yy5','rr11','.bar_56','776RTiLND','yy3','abs','yy2','rr7','yy7','.bar_54','visible','yy6','querySelector','.bar_58','select[name=\x22question6\x22]','value','.bar_48','gr4','.bar_100','83818RoHIeF','hidden','yy4','.bar_94','.bar_96','.bar_30','keys','gr10','.bar_62','892285uaZVhX','.bar_42','querySelectorAll','.bar_88','rr1','.bar_60','visibility','.bar_86','2571986acfXxM','.bar_34','3087469igDPHL','3tiwlwE','yy1','rr3','gr12','.bar_74','.bar_28','.bar_78','392503BEJUXc','.bar_98','.bar_36','textContent','gr8','.bar_70','select[name=\x22question5\x22]','toFixed','.bar_46','rr4','gr5'];_0x448a=function(){return _0x497268;};return _0x448a();}
+let lastShownBar = null;
+
+function updateLayerVisibility(selectedValue, questionNumber) {
+    const points = parseFloat(selectedValue) || 0; // Default to 0 if no value is selected
+
+    // Update visibility based on question groups
+    if (questionNumber === 1) {
+        showLayer('g1', points === 3);
+        showLayer('yy1', points === 0);
+        showLayer('rr1', points === 1);
+        showLayer('gr1', points === 2);
+    } else if (questionNumber === 2) {
+        showLayer('g2', points === 3);
+        showLayer('yy2', points === 0);
+        showLayer('rr2', points === 1);
+        showLayer('gr2', points === 2);
+    } else if (questionNumber === 3) {
+        showLayer('g3', points === 3);
+        showLayer('yy3', points === 0);
+        showLayer('rr3', points === 1);
+        showLayer('gr3', points === 2);
+    } else if (questionNumber === 4) {
+        showLayer('g4', points === 3);
+        showLayer('yy4', points === 0);
+        showLayer('rr4', points === 1);
+        showLayer('gr4', points === 2);
+    } else if (questionNumber === 5 || questionNumber === 6) {
+        // Combined logic for questions 5 and 6
+        const question5Points = parseFloat(document.querySelector(`select[name="question5"]`)?.value) || 0;
+        const question6Points = parseFloat(document.querySelector(`select[name="question6"]`)?.value) || 0;
+        const totalPoints = question5Points + question6Points;
+
+        console.log("Total Points for Questions 5 and 6:", totalPoints);
+
+        showLayer('g5', totalPoints === 3);
+        showLayer('rr5', totalPoints === 0.5 || totalPoints === 1);
+        showLayer('gr5', totalPoints === 1.5 || totalPoints === 2 || totalPoints === 2.5);
+        showLayer('yy5', totalPoints === 0);
+    } else if (questionNumber === 7) {
+        showLayer('g6', points === 3);
+        showLayer('yy6', points === 0);
+        showLayer('rr6', points === 1);
+        showLayer('gr6', points === 2);
+    } else if (questionNumber === 8 || questionNumber === 9) {
+        // Combined logic for questions 8 and 9
+        const question8Points = parseFloat(document.querySelector(`select[name="question8"]`)?.value) || 0;
+        const question9Points = parseFloat(document.querySelector(`select[name="question9"]`)?.value) || 0;
+        const totalPoints = question8Points + question9Points;
+
+        console.log("Total Points for Questions 8 and 9:", totalPoints);
+
+        showLayer('g7', totalPoints === 3);
+        showLayer('rr7', totalPoints === 0.5 || totalPoints === 1);
+        showLayer('gr7', totalPoints === 1.5 || totalPoints === 2 || totalPoints === 2.5);
+        showLayer('yy7', totalPoints === 0);
+    } else if (questionNumber === 10) {
+        showLayer('g8', points === 3);
+        showLayer('yy8', points === 0);
+        showLayer('rr8', points === 1);
+        showLayer('gr8', points === 2);
+    } else if (questionNumber === 11) {
+        showLayer('g9', points === 3);
+        showLayer('yy9', points === 0);
+        showLayer('rr9', points === 1);
+        showLayer('gr9', points === 2);
+    } else if (questionNumber === 12) {
+        showLayer('g10', points === 3);
+        showLayer('yy10', points === 0);
+        showLayer('rr10', points === 1);
+        showLayer('gr10', points === 2);
+    } else if (questionNumber === 13) {
+        showLayer('g11', points === 3);
+        showLayer('yy11', points === 0);
+        showLayer('rr11', points === 1);
+        showLayer('gr11', points === 2);
+    } else if (questionNumber === 14) {
+        showLayer('g12', points === 3);
+        showLayer('yy12', points === 0);
+        showLayer('rr12', points === 1);
+        showLayer('gr12', points === 2);
+    }
+
+    displayTotalPoints(); // Update total points display
+}
+
+function showLayer(layerClass, isVisible) {
+    const elements = document.querySelectorAll(`.${layerClass}`);
+    elements.forEach((element) => {
+        element.style.visibility = isVisible ? 'visible' : 'hidden';
+    });
+}
+
+function displayTotalPoints() {
+    let totalPoints = 0;
+    let maxPossiblePoints = 36; // Initial max points
+
+    // Define weight per question
+    const questionWeights = {
+        5: 1.5, 6: 1.5, 8: 1.5, 9: 1.5 // These questions have 1.5 max points
+    };
+
+    for (let i = 1; i <= 14; i++) {
+        const selectElement = document.querySelector(`select[name="question${i}"]`);
+        const points = parseFloat(selectElement?.value); // Get selected value
+
+        if (!isNaN(points)) {
+            if (points === 0) {
+                // Subtract max points for this question if marked Not Applicable
+                maxPossiblePoints -= questionWeights[i] || 3; 
+            } else if (points !== -1) {
+                // Only add to total if a valid selection is made
+                totalPoints += points;
+            }
+        }
+    }
+
+    // Avoid division by zero
+    const normalizedPoints = maxPossiblePoints > 0 ? (totalPoints / maxPossiblePoints) * 100 : 0;
+
+    document.getElementById('pointsCircle').textContent = normalizedPoints.toFixed(2);
+    updateBarImage(normalizedPoints);
+}
+
+function updateBarImage(points) {
+    const barMapping = {
+        28: '.bar_28',
+        30: '.bar_30',
+        32: '.bar_32',
+        34: '.bar_34',
+        36: '.bar_36',
+        38: '.bar_38',
+        40: '.bar_40',
+        42: '.bar_42',
+        44: '.bar_44',
+        46: '.bar_46',
+        48: '.bar_48',
+        50: '.bar_50',
+        52: '.bar_52',
+        54: '.bar_54',
+        56: '.bar_56',
+        58: '.bar_58',
+        60: '.bar_60',
+        62: '.bar_62',
+        64: '.bar_64',
+        66: '.bar_66',
+        68: '.bar_68',
+        70: '.bar_70',
+        72: '.bar_72',
+        74: '.bar_74',
+        75: '.bar_75',
+        76: '.bar_76',
+        78: '.bar_78',
+        80: '.bar_80',
+        82: '.bar_82',
+        84: '.bar_84',
+        86: '.bar_86',
+        88: '.bar_88',
+        90: '.bar_90',
+        92: '.bar_92',
+        94: '.bar_94',
+        96: '.bar_96',
+        98: '.bar_98',
+        100: '.bar_100'
+    };
+    // Hide the last shown bar if there was one
+    if (lastShownBar) {
+        document.querySelector(lastShownBar).style.visibility = 'hidden';
+    }
+
+    // Determine the current bar to display
+    let currentBarKey = Object.keys(barMapping).reduce((prev, curr) => {
+        return Math.abs(curr - points) < Math.abs(prev - points) ? curr : prev;
+    });
+
+    let currentBarSelector = barMapping[currentBarKey];
+
+    // Show the current bar
+    if (currentBarSelector) {
+        document.querySelector(currentBarSelector).style.visibility = 'visible';
+        lastShownBar = currentBarSelector;
+    }
+}
